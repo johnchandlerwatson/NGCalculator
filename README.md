@@ -11,7 +11,7 @@ sql server express
 `git clone https://github.com/johnchandlerwatson/NGCalculator.git`   
 #### to run the api:   
 `cd NGCalculator\ng-calculator.api\`   
-`dotnet run` (this will automatically try and create the database and apply the schema   
+`dotnet run` (this will automatically try and create the database and apply the schema)   
 
 #### to run the angular app:   
 `cd NGCalculator\ng-calculator.web\`   
