@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  height: 100vh;
+  background: #1f1e18f5;
+  overflow: hidden;
+  font-family: "Nova Mono", monospace;
+}
